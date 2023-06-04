@@ -1,5 +1,5 @@
 # RSA-Factoring-Challenge
 
-./factors <file>
+./factors <factors>
 
-./rsa <file>
+./rsa <rsa>
