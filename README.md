@@ -1,5 +1,4 @@
 # RSA-Factoring-Challenge
 
-./factors <factors>
-
-./rsa <rsa>
+- [factors](./factors)
+- [rsa](./rsa)
